@@ -3,6 +3,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcdd-group&locale=cn&cache_seconds=1800&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" 
 alt="top-langs" />
 
-看小说网：🔗https://kxs.lyunion.top
-
 
