@@ -1,4 +1,4 @@
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=pcdd-group&count_private=true&include_all_commits=false&locale=en&cache_seconds=14400&hide_border=true&show_icons=true&line_height=21&hide_title=true&theme=gruvbox" alt="github-readme-stats" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcdd-group&locale=en&cache_seconds=1800&hide_border=true&layout=compact&hide_title=true&card_width=0&theme=gruvbox" 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=pcdd-group&count_private=true&include_all_commits=false&locale=en&cache_seconds=14400&hide_border=true&show_icons=true&line_height=21&hide_title=true" alt="github-readme-stats" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcdd-group&locale=en&cache_seconds=1800&hide_border=true&layout=compact&hide_title=true&card_width=0" 
 alt="top-langs" />
 
 <!-- 
